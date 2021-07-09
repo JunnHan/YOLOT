@@ -1,5 +1,5 @@
 # DMATracker
-This is the official implementation of our paper ***A Unified Detection, Motion and Appearance Model for Multi-Object Tracking***.  
+This is the official implementation of our paper ***You Only Look One Tracker***.  
 [paper link(not available now)]()  
 
 ### Requirements
