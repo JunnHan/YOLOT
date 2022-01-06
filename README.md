@@ -1,13 +1,15 @@
-# DMATracker
-This is the official implementation of our paper ***You Only Look One Tracker***.  
+# YOLOT
+This is the official implementation of our paper ***YOLOT: You Only Look One Tracker***.  
 [paper link(not available now)]()  
 
 ### Requirements
 - Python3.6
 - Pytorch 1.6.0, torchvision 0.7.0
-- [detectron2](https://github.com/facebookresearch/detectron2)
 - python-opencv
 - py-motmetrics
 - cython-bbox
 ### Installation
-See [INSTALL.md](https://github.com/facebookresearch/detectron2/blob/master/INSTALL.md)
+
+### Quick Start
+#### Dataset Zoo
+Our method is designed for public detection mode. The preprocessed detection files can be found [here(Learning a Neural Solver for Multiple Object Tracking)](https://github.com/dvl-tum/mot_neural_solver)
